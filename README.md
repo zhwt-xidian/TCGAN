@@ -3,9 +3,8 @@
 ⭐ our [article](https://ieeexplore.ieee.org/document/10818591) ⭐ 
 ⭐ The main contribution of our work is that we design a temporal convolutional generative adversarial network to extract FECG signal using single-channel AECG signal ⭐ 
 
-<p align="center"> <img src="./img/fig1.png" width="60%"> </p>
-
 ![](./img/fig1.png)
+
 ## Requirements
 
 ```python
@@ -31,7 +30,8 @@ It includes the results of Train and Test.
 python train.py
 ```
 ## Results
-这里放Fig.2
+
+![](./img/fig2.png)
 
 ## Citation
 If our code is helpful to you, please cite:
