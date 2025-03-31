@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="./img/fig1.png" width="60%"> </p>
 
-
+![](./img/fig1.jpg)
 ## Requirements
 
 ```python
