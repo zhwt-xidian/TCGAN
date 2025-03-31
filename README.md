@@ -3,7 +3,7 @@
 ⭐ our [article](https://ieeexplore.ieee.org/document/10818591) ⭐ 
 ⭐ The main contribution of our work is that we design a temporal convolutional generative adversarial network to extract FECG signal using single-channel AECG signal ⭐ 
 
-这里放Fig.1
+<iframe src="https://docs.google.com/viewer?url=https://github.com/zhwt-xidian/TCGAN/raw/master/img/fig1.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
 
 <p align="center"> <img src="Fig/framework.png" width="60%"> </p>
 
