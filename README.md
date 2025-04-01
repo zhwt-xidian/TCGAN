@@ -3,8 +3,8 @@
 ⭐ our [article](https://ieeexplore.ieee.org/document/10818591) ⭐ 
 
 ⭐ Our contributions are as follows: 
-(1) Novel Temporal Convolutional GAN for FECG Extraction: TCGAN introduces temporal convolution blocks, enhancing the model’s ability to capture both global and local ECG features, leading to more accurate FECG waveform reconstruction.
-(2) Improved Waveform Detail Preservation via Encoder-Decoder and Skip Connections: The encoder-decoder architecture with skip connections enables effective merging of feature maps, improving the preservation of detailed waveform information during FECG extraction.
+cc(1) Novel Temporal Convolutional GAN for FECG Extraction: TCGAN introduces temporal convolution blocks, enhancing the model’s ability to capture both global and local ECG features, leading to more accurate FECG waveform reconstruction.
+cc(2) Improved Waveform Detail Preservation via Encoder-Decoder and Skip Connections: The encoder-decoder architecture with skip connections enables effective merging of feature maps, improving the preservation of detailed waveform information during FECG extraction.
 ⭐ 
 
 ![](./img/fig1.png)
